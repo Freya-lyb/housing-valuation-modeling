@@ -1,4 +1,4 @@
-# statistical-housing-valuation
+# Statistical Housing Valuation
 
 ### Multiple Linear Regression & Predictive Modeling in R
 
@@ -147,3 +147,31 @@ statistical-housing-valuation/
 │   └── model_results_summary.png
 
 └── README.md
+```
+
+---
+
+## Tools & Methods
+
+- R
+- Multiple Linear Regression (MLR)
+- Feature Engineering
+- Regression Diagnostics
+- VIF Analysis
+- RMSE Evaluation
+- Exploratory Data Analysis (EDA)
+- Statistical Modeling
+- Data Transformation
+
+---
+
+## Portfolio Positioning
+
+This repository is intentionally positioned as:
+
+- a statistical modeling case study
+- an interpretable predictive analytics project
+- a feature engineering and diagnostics workflow
+- a classical statistics-focused machine learning project
+
+The project emphasizes statistical reasoning, interpretability, and model reliability rather than black-box prediction alone.
