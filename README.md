@@ -1,2 +1,2 @@
-# housing-price-modeling-mlr
-Statistical housing valuation case study using multiple linear regression, feature engineering, transformation techniques, VIF analysis, and predictive modeling in R.
+# statistical-housing-valuation
+Statistical housing valuation modeling project using multiple linear regression, feature engineering, transformation techniques, NLP-inspired review scoring, and regression diagnostics in R.
